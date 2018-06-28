@@ -19,4 +19,3 @@ Github Page
 https://aolowodagba.github.io/7DaysChallengeUdacity/
 
 
-## test
